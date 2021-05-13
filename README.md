@@ -14,5 +14,6 @@
 https://socket.io/docs/v4/middlewares/
 https://socket.io/get-started/private-messaging-part-4/
 https://socket.io/docs/v4/client-api/#socket-id (emit to specific visitor with socketid)
+https://stackoverflow.com/questions/4647348/send-message-to-specific-client-with-socket-io-and-node-js
 
 alakasız ama güzel başlık => https://stackoverflow.com/questions/29794964/how-do-webrtc-peers-connect-to-each-other-if-none-have-opened-ports
