@@ -12,12 +12,18 @@
 - The `Manager`  _manages_ the Engine.IO [client](https://github.com/socketio/engine.io-client/) instance, which is the low-level engine that establishes the connection to the server (by using transports like WebSocket or HTTP long-polling).
 
 https://socket.io/docs/v4/middlewares/
+
 https://socket.io/get-started/private-messaging-part-4/
+
 https://socket.io/docs/v4/client-api/#socket-id (emit to specific visitor with socketid)
+
 https://stackoverflow.com/questions/4647348/send-message-to-specific-client-with-socket-io-and-node-js
 
 alakasız ama güzel başlık => https://stackoverflow.com/questions/29794964/how-do-webrtc-peers-connect-to-each-other-if-none-have-opened-ports
 
 # Mongoose Notlar
 https://www.bezkoder.com/mongodb-many-to-many-mongoose/
+
 https://javascript.plainenglish.io/store-clean-data-by-validating-models-with-mongoose-f6453dbdbff9
+
+https://mongoosejs.com/docs/validation.html
