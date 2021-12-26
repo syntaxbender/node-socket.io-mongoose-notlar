@@ -17,3 +17,7 @@ https://socket.io/docs/v4/client-api/#socket-id (emit to specific visitor with s
 https://stackoverflow.com/questions/4647348/send-message-to-specific-client-with-socket-io-and-node-js
 
 alakasız ama güzel başlık => https://stackoverflow.com/questions/29794964/how-do-webrtc-peers-connect-to-each-other-if-none-have-opened-ports
+
+# Mongoose Notlar
+https://www.bezkoder.com/mongodb-many-to-many-mongoose/
+https://javascript.plainenglish.io/store-clean-data-by-validating-models-with-mongoose-f6453dbdbff9
