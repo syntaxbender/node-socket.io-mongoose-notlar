@@ -27,3 +27,9 @@ https://www.bezkoder.com/mongodb-many-to-many-mongoose/
 https://javascript.plainenglish.io/store-clean-data-by-validating-models-with-mongoose-f6453dbdbff9
 
 https://mongoosejs.com/docs/validation.html
+
+https://mongoosejs.com/docs/middleware.html#error-handling-middleware
+
+# Express notlar
+
+https://expressjs.com/en/guide/error-handling.html
