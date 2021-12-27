@@ -29,7 +29,16 @@ https://javascript.plainenglish.io/store-clean-data-by-validating-models-with-mo
 https://mongoosejs.com/docs/validation.html
 
 https://mongoosejs.com/docs/middleware.html#error-handling-middleware
-
+```
+Athlete.
+  find().
+  where('sport').equals('Tennis').
+  where('age').gt(17).lt(50).  //Additional where query
+  limit(5).
+  sort({ age: -1 }).
+  select('name age').
+  exec(callback); // where callback is the name of our callback function.
+```
 # Express notlar
 
 https://expressjs.com/en/guide/error-handling.html
