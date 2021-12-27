@@ -39,6 +39,8 @@ Athlete.
   select('name age').
   exec(callback); // where callback is the name of our callback function.
 ```
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#mongoose_primer
 # Express notlar
 
 https://expressjs.com/en/guide/error-handling.html
