@@ -45,7 +45,7 @@ https://zellwk.com/blog/async-await-express/ >> Mongoose Error Handling in Expre
 https://levelup.gitconnected.com/handling-errors-in-mongoose-express-for-display-in-react-d966287f573b >> Express Middleware is not supporting async method for handling errors.
 https://mongoosejs.com/docs/connections.html >> Not work for "ValidationError"
 ```
-Not work for "ValidationError"
+//Not work for "ValidationError"
 mongoose.connection.on('error', err => {
   logError(err);
 });
