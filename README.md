@@ -54,8 +54,12 @@ mongoose.connection.on('error', err => {
   logError(err);
 });
 ```
+# ecma reyiz
 
+https://stackoverflow.com/questions/16631064/declare-multiple-module-exports-in-node-js
 # Express notlar
+
+https://stackoverflow.com/questions/34113590/how-to-add-custom-function-to-response-object-in-node-js
 
 https://expressjs.com/en/guide/error-handling.html
 
