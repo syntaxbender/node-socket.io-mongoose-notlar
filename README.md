@@ -66,3 +66,13 @@ https://expressjs.com/en/guide/error-handling.html
 # aburcubur
 
 https://medium.com/@k3nn7/structuring-validation-errors-in-rest-apis-40c15fbb7bc3 > boş yapmış ama fikir verici
+
+https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP?si=812bdb01dcd34662
+
+https://open.spotify.com/track/6AnR6ulSFxJ6j3yoFBC0JS?si=c29e3b5f483f4445
+
+https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME?si=51b650d43eda4778
+
+https://open.spotify.com/track/1qzSpwQeJSoMHKur4ADLjW?si=1aef1fa5227149fe
+
+https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq?si=703aa7dfa92e48df
