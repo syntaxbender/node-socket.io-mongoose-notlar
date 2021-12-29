@@ -39,8 +39,16 @@ Athlete.
   select('name age').
   exec(callback); // where callback is the name of our callback function.
 ```
-
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#mongoose_primer
+https://zellwk.com/blog/async-await-express/ >> Mongoose Error Handling in Express (Not Express Middleware)
+https://mongoosejs.com/docs/connections.html >> Not work for "ValidationError"
+```
+Not work for "ValidationError"
+mongoose.connection.on('error', err => {
+  logError(err);
+});
+```
+
 # Express notlar
 
 https://expressjs.com/en/guide/error-handling.html
