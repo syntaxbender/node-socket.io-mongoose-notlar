@@ -58,3 +58,7 @@ mongoose.connection.on('error', err => {
 # Express notlar
 
 https://expressjs.com/en/guide/error-handling.html
+
+# aburcubur
+
+https://medium.com/@k3nn7/structuring-validation-errors-in-rest-apis-40c15fbb7bc3 > boş yapmış ama fikir verici
