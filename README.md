@@ -65,6 +65,8 @@ https://expressjs.com/en/guide/error-handling.html
 
 http://expressjs.com/en/resources/middleware/body-parser.html
 
+https://expressjs.com/en/guide/routing.html
+
 # aburcubur
 
 https://medium.com/@k3nn7/structuring-validation-errors-in-rest-apis-40c15fbb7bc3 > boş yapmış ama fikir verici
