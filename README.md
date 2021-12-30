@@ -63,6 +63,8 @@ https://stackoverflow.com/questions/34113590/how-to-add-custom-function-to-respo
 
 https://expressjs.com/en/guide/error-handling.html
 
+http://expressjs.com/en/resources/middleware/body-parser.html
+
 # aburcubur
 
 https://medium.com/@k3nn7/structuring-validation-errors-in-rest-apis-40c15fbb7bc3 > boş yapmış ama fikir verici
